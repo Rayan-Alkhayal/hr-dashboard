@@ -23,4 +23,4 @@ Training dataset provided by the instructor of a data analysis training program,
 
 ## How to Use
 1. Download [hr-dashboard.pbix](hr-dashboard.pbix) and open it in Power BI Desktop (Windows).
-2. Use the branch slicer and the two field-parameter slicers to explore the data.
+2. Use the measure dropdown, the Department/Position toggle, and the Branch filter to explore the data.
