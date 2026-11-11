@@ -4,7 +4,7 @@
 
 Built with Power BI Desktop, Power Query, and DAX.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](/image/dashboard.png)
 
 ## Highlights
 - **Power Query:** loaded from Excel and removed 25 rows (2.5%) with null, blank, or "Unknown" values (995 to 970 records)
