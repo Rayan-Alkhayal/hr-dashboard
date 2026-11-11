@@ -9,8 +9,8 @@ Built with Power BI Desktop, Power Query, and DAX.
 ## Highlights
 - **Power Query:** loaded from Excel and removed 25 rows (2.5%) with null, blank, or "Unknown" values (995 to 970 records)
 - **DAX:** 6 measures (Total Salary, Avg. Performance Score, Total Leaves, Total Overtime, Total Training Hours, Total Promotions)
-- **Field parameters:** switch the measure shown by department, and the chart dimension (department or position), with one click
-- **Interactive layout:** 5 KPI cards, a branch slicer, 5 charts, and a department-by-position matrix on a custom 1920x1080 page
+- **Field parameters:** one click switches the measure shown by department and the chart dimension (department or position)
+- **Interactive filters:** a measure selector (Total Leaves, Total Overtime, Total Promotions, Total Salary, Total Training Hours, Avg. Performance Score), a Department/Position toggle, and a Branch filter (A and B), plus 5 KPI cards, 5 charts, and a department-by-position matrix on a custom 1920x1080 page
 
 ## Key Insights
 - 970 employees; 55% female; education levels are evenly spread (Bachelor's 26%, Master's 26%, High School 26%, PhD 22%).
